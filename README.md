@@ -1,4 +1,5 @@
 Hi, I’m Michał.
 I’m interested in computer vision and machine learning.
-I’m currently learning OpenCV library for Java.
-How to reach me: @mmadajski7@gmail.com
+I’m currently learning mostly tensorflow.
+In my projects i like to use OpenCV and Python or Java.  
+How to reach me: @michalmadajski1@gmail.com

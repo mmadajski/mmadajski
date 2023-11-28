@@ -21,7 +21,7 @@ Feel free to explore my work and join me in the exciting world of data!
 - 🐍 Programming Language: Python, R, Java
 - 📊 Libraries: Tensorflow, Sklearn, Pandas, NumPy, OpenCV
 - 📓 Development Environment: PyCharm, Jupyter Notebook
-- 🔨 Other tools: Excel, PowerBI
+- 🔨 Other tools: Excel, PowerBI, SQL
 ## Contact
 
 If you have questions, suggestions, or would like to collaborate, don't hesitate to reach out to me via [michalmadajski1@gmail.com](michalmadajski1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/micha%C5%82-madajski/).
